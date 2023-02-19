@@ -1,0 +1,26 @@
+@charset "UTF-8";
+
+/*画像中央に配置*/
+IMG.logo{
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+}
+
+/*menu.jspの各項目を中央配置*/
+p{
+  text-align:center;
+}
+
+h3{
+	font-family:"Yu Gothic";
+}
+
+body{
+	background-color: #e8f8f8;
+}
+
+.section1{
+	background-color: #6666ff;
+	height: 80px;
+}
